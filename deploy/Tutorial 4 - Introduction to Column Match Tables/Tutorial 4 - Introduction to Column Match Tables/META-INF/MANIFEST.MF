@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-03-22T15:05:21.052788+01:00
+Created-By: OpenL WebStudio v.5.26.0-SNAPSHOT
+Implementation-Title: Tutorial 4 - Introduction to Column Match Tables
+Build-Branch: master
+Build-Number: 438f503b54921849ecf9de0d5ed23f4af65115f7
+Implementation-Version: DEFAULT-2021-12-02_18-22-03
+Built-By: DEFAULT
+
